@@ -9,3 +9,6 @@ http://www.backlog.jp/git-guide/pull-request/pull-request2_1.html
 
 masterに今日のメモを書いておいた。（2022/05/25　22:35）
 これはsecond challelgeにマージする
+# Master側に追記する
+2022/05/26
+コードを１行追加。これでmasterブランチは一歩前進
